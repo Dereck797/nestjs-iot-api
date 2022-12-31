@@ -2,6 +2,9 @@
 /dist
 /node_modules
 
+farmdb/
+.env
+
 # Logs
 logs
 *.log
